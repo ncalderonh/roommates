@@ -1,0 +1,16 @@
+{
+  "roommates": [
+    {
+      "id": "e9d6cc78-929c-414b-940d-9f08a884fb61",
+      "nombre": "Julie Boyd",
+      "debe": 0,
+      "recibe": 0
+    },
+    {
+      "id": "19d686b5-620b-4e80-9f00-b80966c7b94b",
+      "nombre": "Hayley Johnson",
+      "debe": 0,
+      "recibe": 0
+    }
+  ]
+}

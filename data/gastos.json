@@ -1,0 +1,14 @@
+{
+  "gastos": [
+    {
+      "roommate": "Julie Boyd",
+      "descripcion": "",
+      "monto": 15000
+    },
+    {
+      "roommate": "Hayley Johnson",
+      "descripcion": "",
+      "monto": 15000
+    }
+  ]
+}
